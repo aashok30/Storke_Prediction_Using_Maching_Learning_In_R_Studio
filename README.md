@@ -25,6 +25,8 @@ The data contains 5110 observations with 12 attributes.
 12) stroke: 1 if the patient had a stroke or 0 if not
 *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
 
+Data Source : https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
+
 ## Objective
 
 Predict whether a Patient will have stroke or not based on some given attributes. Evaluation metric was Confusion Matrix.
